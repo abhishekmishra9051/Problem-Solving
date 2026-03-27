@@ -1,4 +1,4 @@
-package Arrays;
+package arraysproblems;
 
 public class LinearSearch {
     public static int linearSearch(int[] array, int target){

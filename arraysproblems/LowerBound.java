@@ -1,4 +1,4 @@
-package Arrays;
+package arraysproblems;
 
 public class LowerBound {
     public int lowerBound(int[] nums, int x) {
