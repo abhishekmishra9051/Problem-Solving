@@ -5,7 +5,7 @@ import java.util.*;
 public class TwoSum {
 
     // =========================
-    // 1️⃣ Brute Force (first pair)
+    // 1️ Brute Force (first pair)
     // =========================
     public int[] twoSumBruteForce(int[] nums, int target) {
         for(int i = 0; i < nums.length; i++){
@@ -19,7 +19,7 @@ public class TwoSum {
     }
 
     // =========================
-    // 2️⃣ HashMap Approach (first pair, unsorted array)
+    // 2️. HashMap Approach (first pair, unsorted array)
     // =========================
     public int[] twoSumHashMap(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
@@ -34,7 +34,7 @@ public class TwoSum {
     }
 
     // =========================
-    // 3️⃣ Two Pointer Approach (sorted array, first pair)
+    // 3️. Two Pointer Approach (sorted array, first pair)
     // =========================
     public int[] twoSumTwoPointer(int[] nums, int target) {
         int left = 0;
@@ -53,7 +53,7 @@ public class TwoSum {
     }
 
     // =========================
-    // 4️⃣ All pairs (unsorted, use HashSet to avoid duplicates)
+    // 4️. All pairs (unsorted, use HashSet to avoid duplicates)
     // =========================
     public List<int[]> twoSumAllPairs(int[] nums, int target){
         List<int[]> result = new ArrayList<>();
@@ -77,7 +77,7 @@ public class TwoSum {
     }
 
     // =========================
-    // 5️⃣ Count number of pairs (frequency map)
+    // 5️. Count number of pairs (frequency map)
     // =========================
     public int twoSumCountPairs(int[] nums, int target){
         Map<Integer, Integer> freq = new HashMap<>();
