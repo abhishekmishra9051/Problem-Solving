@@ -10,7 +10,7 @@ public class LowerBound {
         int left = 0, right = nums.length - 1;
 
         while (left <= right) {
-            int mid = left + (right - left) / 2;  // calculate mid index
+            int mid = left + (right - left) / 2;  // find mid
 
             if (nums[mid] < x) {  // If mid element is less than x, move left pointer
                 left = mid + 1;
