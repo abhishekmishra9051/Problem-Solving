@@ -18,4 +18,20 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0165-compare-version-numbers) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
