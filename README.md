@@ -37,6 +37,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0700-search-in-a-binary-search-tree](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0700-search-in-a-binary-search-tree](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
