@@ -55,6 +55,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -82,6 +83,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
 |  |
@@ -107,4 +109,12 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
