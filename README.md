@@ -14,6 +14,7 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Two Pointers
 |  |
@@ -101,6 +102,7 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
