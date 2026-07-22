@@ -10,6 +10,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0008-string-to-integer-atoi](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0008-string-to-integer-atoi) |
 | [0165-compare-version-numbers](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,11 +99,13 @@ A collection of algorithms and solutions for various problems in data structures
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0700-search-in-a-binary-search-tree) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Array
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0152-maximum-product-subarray) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0207-course-schedule) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
