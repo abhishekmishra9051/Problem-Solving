@@ -14,6 +14,7 @@ A collection of algorithms and solutions for various problems in data structures
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -103,6 +104,7 @@ A collection of algorithms and solutions for various problems in data structures
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -126,4 +128,8 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
