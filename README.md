@@ -107,6 +107,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0064-minimum-path-sum](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0152-maximum-product-subarray) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
@@ -115,6 +116,7 @@ A collection of algorithms and solutions for various problems in data structures
 ## Hash Table
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Graph Theory
 |  |
@@ -132,4 +134,12 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0064-minimum-path-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
