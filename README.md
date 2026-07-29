@@ -108,6 +108,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
@@ -138,8 +139,10 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Trie
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1707-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
