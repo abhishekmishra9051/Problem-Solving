@@ -10,6 +10,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0008-string-to-integer-atoi](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0008-string-to-integer-atoi) |
 | [0165-compare-version-numbers](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
 |  |
@@ -119,6 +120,7 @@ A collection of algorithms and solutions for various problems in data structures
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -145,4 +147,16 @@ A collection of algorithms and solutions for various problems in data structures
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1707-maximum-xor-with-an-element-from-array) |
+## Greedy
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Sorting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
