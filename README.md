@@ -19,6 +19,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0877-stone-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0152-maximum-product-subarray](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0877-stone-game) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
@@ -165,6 +167,7 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -173,4 +176,5 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
