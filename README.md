@@ -65,6 +65,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0207-course-schedule](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3310-remove-methods-from-project](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0199-binary-tree-right-side-view](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3310-remove-methods-from-project](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3310-remove-methods-from-project) |
 ## Linked List
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0207-course-schedule) |
+| [3310-remove-methods-from-project](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
