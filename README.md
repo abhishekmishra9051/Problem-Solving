@@ -177,6 +177,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0486-predict-the-winner](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -195,4 +196,8 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1406-stone-game-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
