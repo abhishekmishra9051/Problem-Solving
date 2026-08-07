@@ -11,6 +11,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0165-compare-version-numbers](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
 |  |
@@ -162,6 +163,7 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0877-stone-game](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -200,4 +203,12 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
