@@ -11,6 +11,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0165-compare-version-numbers](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
@@ -23,11 +24,13 @@ A collection of algorithms and solutions for various problems in data structures
 | [0877-stone-game](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0877-stone-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0165-compare-version-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
