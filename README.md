@@ -22,6 +22,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0152-maximum-product-subarray](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -120,6 +121,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -182,6 +184,7 @@ A collection of algorithms and solutions for various problems in data structures
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -194,14 +197,17 @@ A collection of algorithms and solutions for various problems in data structures
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
@@ -215,4 +221,8 @@ A collection of algorithms and solutions for various problems in data structures
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
