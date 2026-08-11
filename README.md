@@ -124,6 +124,7 @@ A collection of algorithms and solutions for various problems in data structures
 | [1140-stone-game-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1406-stone-game-iii) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3731-find-missing-elements](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -135,6 +136,7 @@ A collection of algorithms and solutions for various problems in data structures
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Graph Theory
@@ -173,6 +175,7 @@ A collection of algorithms and solutions for various problems in data structures
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/abhishekmishra9051/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Counting
